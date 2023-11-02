@@ -59,7 +59,7 @@ Ready to embark on your Quotastic adventure? Follow these steps:
 **1. Clone the Repository:**
 
 ```sh
-    git clone https://github.com/your-username/quotastic-backend.git
+    git clone https://github.com/sgtpolde/quotastic-backend.git
     cd quotastic-backend
 ```
 
